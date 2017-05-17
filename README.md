@@ -5,17 +5,17 @@
 Este módulo proporciona una nueva secuencia de números, conocida como la sucesión de Fibonacci.
 * [Info](https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci)
 ## Despliegue en Heroku
-  * [Heroku](https://ull-andrea-carlos-comparador.herokuapp.com/)
+ * [Heroku](https://ull-andrea-carlos-comparador.herokuapp.com/)
 ## Hace uso de los módulos
-    * [Secuencia](https://www.npmjs.com/package/@ull-andrea-carlos/secuencia)
+ * [Secuencia](https://www.npmjs.com/package/@ull-andrea-carlos/secuencia)
 ## Repositorios del proyecto.
-  * [Secuencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia).
-  * [Fibonacci](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci).
-  * [Primos](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-primos).
-  * [Igual](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-igual).
-  * [Diferencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-diferencia)
-  * [Comparar](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-comparar).
-  * [Main](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-p5).
+ * [Secuencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia).
+ * [Fibonacci](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci).
+ * [Primos](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-primos).
+ * [Igual](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-igual).
+ * [Diferencia](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-diferencia)
+ * [Comparar](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-comparar).
+ * [Main](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-p5).
 ## Documentación.
 * [Secuencia](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-secuencia/).
 * [Fibonacci](https://ull-esit-dsi-1617.github.io/proyecto-dsi-andrea-carlos-35l1-fibonacci/).
