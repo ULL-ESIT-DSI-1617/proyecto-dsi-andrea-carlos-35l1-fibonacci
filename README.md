@@ -1,5 +1,7 @@
 # Proyecto DSI
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-fibonacci)
+
 ## Modulo Fibonacci
 
 Este módulo proporciona una nueva secuencia de números, conocida como la sucesión de Fibonacci.
